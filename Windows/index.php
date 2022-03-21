@@ -34,3 +34,5 @@ foreach ($mahasiswa as $row) {
 <br>
 <h2>Webservice</h2>
 <a href="call_api/webservice.php">Go to Webservice</a>
+<br>
+<a href="ajax_crud.html">Go to Webservice 2</a>
